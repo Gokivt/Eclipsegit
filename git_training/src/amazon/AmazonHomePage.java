@@ -4,7 +4,7 @@ public class AmazonHomePage {
 	
 	public AmazonAddToCart selectprocut(String product) {
 		
-		System.out.println("Product selected successfully");
+		System.out.println("Product selected successful");
 		
 		return new AmazonAddToCart();
 		

@@ -3,7 +3,7 @@ package amazon;
 public class AmazonLoginPage {
 
 	public AmazonHomePage loginfunction(String Username, String Password) {
-		System.out.println("User name and Password entered successfully");
+		System.out.println("User name and Password entered successful");
 
 		return new AmazonHomePage();
 	}
